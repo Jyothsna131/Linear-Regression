@@ -1,1 +1,1 @@
-# Linear-Regression-from-scratch1
+# Linear-Regression
